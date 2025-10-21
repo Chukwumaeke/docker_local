@@ -1,5 +1,8 @@
 pipeline {
     agent any
+    tools {
+        maven 'maven3.9'
+    }
     stages {
         stage('Git checkout') {
             steps {
@@ -7,6 +10,11 @@ pipeline {
                 git branch: 'main', credentialsId: 'jenkins_cred', url: 'https://github.com/Chukwumaeke/docker_local.git'
             }
         }
-
+        stage('Build') {
+            steps {
+                sh 'mvn clean package'
+            }
+       }
     }
 }
+
