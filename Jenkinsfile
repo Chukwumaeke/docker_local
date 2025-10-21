@@ -15,6 +15,10 @@ pipeline {
                 sh 'mvn clean package'
             }
        }
+       stage ('Archive artifacts') {
+            steps {
+                archiveArtifacts artifacts: 'target/*.war', followSymlinks: false
+            }
+        } 
     }
 }
-
