@@ -1,0 +1,603 @@
+[33mcommit 8d8625e1fae54eee52b2941813c36a00fb85cae7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-35-68.us-east-2.compute.internal>
+Date:   Tue Oct 21 02:45:05 2025 +0000
+
+    updated file
+
+[33mcommit e833d8c4acafe760b784382998ef8c4d317cff6f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat Jun 21 13:55:01 2025 -0400
+
+    Update Jenkinsfile
+
+[33mcommit cb5af4714cd48f1859ba6f45d99acbca7b099e0e[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat Jun 21 12:23:23 2025 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 6f8ee1d7127a36e4c553e56775f11f2653496448[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat Jun 21 12:22:06 2025 -0400
+
+    Update deploy.sh
+
+[33mcommit 2c1168c5f0a95c3fcea9664ec389069b18d39e43[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat Jun 21 12:19:43 2025 -0400
+
+    Update deploy_tomcat.sh
+
+[33mcommit 189951d6b872ec6c7913282ac923cfb2855425a2[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat Jun 21 12:12:18 2025 -0400
+
+    Update Jenkinsfile
+
+[33mcommit de70a34fa434fa28464a5d6ceb0c37e21fcb3fd0[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat Jun 21 12:10:48 2025 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 0d9f127f82e864c2795275407324f7a9def99d99[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Tue Jun 3 23:50:30 2025 -0400
+
+    Update deploy_tomcat.sh
+
+[33mcommit cd26884f3b202318812673a8defc24132afbcaed[m
+Author: kc <kelechi@gmail.com>
+Date:   Wed May 28 21:58:23 2025 -0400
+
+    create jenkins file
+
+[33mcommit 4761294ea57351751d924492ebfe0f7dfe629435[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Wed May 28 21:48:35 2025 -0400
+
+    Rename Jenkinsfile to Jenkinsfile_old
+
+[33mcommit 4192a8996fc797d9126ce733739fd0c6dbc4a651[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat May 17 12:52:48 2025 -0400
+
+    Create deploy_tomcat.sh
+
+[33mcommit a1c99cc3a87a249712ebe4142506d42245827851[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat May 17 12:40:22 2025 -0400
+
+    Update Dockerfile
+
+[33mcommit f028d30a7264ad6585a64776e77e204aaf83c992[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat May 17 12:28:02 2025 -0400
+
+    Update deploy.sh
+
+[33mcommit ff5c2a391784d638a05d2159a8228121f83ec92b[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat May 17 12:27:07 2025 -0400
+
+    Update deploy.sh
+
+[33mcommit 4f88c7135f56588db11610bf433bc64d1da84517[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 15 00:01:01 2025 -0400
+
+    Update deploy.sh
+
+[33mcommit 8ff27e9e945760515c424a2d862f8d10d8dbc524[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 15 00:00:50 2025 -0400
+
+    Update haproxy.cfg
+
+[33mcommit 18896c211e40ada65dfe002f220c943f3748b17c[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Wed May 14 23:59:09 2025 -0400
+
+    Update haproxy.cfg
+
+[33mcommit 51b4e15dc863eccf20ff218b931b37b9b3715c15[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Wed May 14 23:56:19 2025 -0400
+
+    Update deploy.sh
+
+[33mcommit ec147bb5756477fb0312ea50c9814629357ed1e4[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Wed May 14 23:44:12 2025 -0400
+
+    Update deploy.sh
+
+[33mcommit bc72fca5dafb5ead1ab9d70430890b4a16e48c64[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Wed May 14 23:38:35 2025 -0400
+
+    Update home.jsp
+
+[33mcommit fbe3272b2c580e89c06fe54824a43800f55f7832[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Wed May 14 23:25:09 2025 -0400
+
+    Update deploy.sh
+
+[33mcommit cc1f6439a5169f79862a852377cd132dd848854a[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Wed May 14 23:13:59 2025 -0400
+
+    Update deploy.sh
+
+[33mcommit 699e32b5d6a6ca5d50404d13a5a3e6e4865845c0[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Wed May 14 23:07:16 2025 -0400
+
+    Update haproxy.cfg
+
+[33mcommit 986ce7d4245b516a4fd93ba293243ecf65a98044[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Wed May 14 22:42:11 2025 -0400
+
+    Create deploy.sh
+
+[33mcommit fb144268057d787e47eafed653e686661fc81309[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 04:50:53 2025 +0100
+
+    Update pom.xml
+
+[33mcommit 4557254db5c4babc3d858c1a1bb484689dee2401[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 04:40:33 2025 +0100
+
+    Update settings.xml
+
+[33mcommit 6adf1fe6111759144b1c9c9ece4799facb476ed1[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 04:36:04 2025 +0100
+
+    Update pom.xml
+
+[33mcommit 9db97989a0551fb4698b51393ebdfd83a02f99a2[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 04:00:33 2025 +0100
+
+    Update tomcat-users.xml
+
+[33mcommit 2e74940cd407b5fa593ac139149e4bf6338e3958[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 03:52:50 2025 +0100
+
+    Update build.yml
+
+[33mcommit 8bb98fbd8ebe1d384c954f6ff685b0925df0698a[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 03:51:59 2025 +0100
+
+    Update build.yml
+
+[33mcommit eeb4a6c555fdeb17131a7b9960a8d54944f6225f[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 03:48:59 2025 +0100
+
+    create a workflow for Sonarqube integration
+
+[33mcommit 6259e2c64150a7b41414c1e42ad54f548a7500b8[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 03:47:03 2025 +0100
+
+    Delete .github directory
+
+[33mcommit 15ad46bd0b40bffd4b64328feaf92f205c79723a[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 03:22:06 2025 +0100
+
+    Update pom.xml
+
+[33mcommit 7b1dfc7290bdb4caa025fba49a13ef0e3ea9c91a[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 03:20:57 2025 +0100
+
+    Update pom.xml
+
+[33mcommit ae537515ac6b1effd7ffd37f0cb285e25a67fa0f[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Thu May 8 03:09:04 2025 +0100
+
+    Update pom.xml
+
+[33mcommit efad97a194dae32fd65e9bbd302d142e77f523f8[m
+Merge: 160dea0 c51f952
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat May 3 18:01:17 2025 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit c51f952a5652eba433920a4ee769956e65087dc1[m
+Author: kc <kelechi@gmail.com>
+Date:   Sat Apr 26 16:11:14 2025 +0000
+
+    update docker file
+
+[33mcommit 160dea0ff03f6a03c7b91b80f28af23a9b0db1b6[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat Apr 26 15:06:20 2025 +0100
+
+    Create haproxy.cfg
+
+[33mcommit 5b751d730d00b339899fb7006d963934c4383f33[m
+Author: udodi05 <spy.henrygrey+git@gmail.com>
+Date:   Sat Apr 26 13:55:38 2025 +0100
+
+    Update Dockerfile
+
+[33mcommit 1627328901ee761eb93935d83b1949a944a519c9[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Apr 5 05:47:49 2025 +0100
+
+    Update Dockerfile
+
+[33mcommit 5b8c19d0210c8d2bf505782e3790778a4765369c[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Jan 15 05:07:49 2025 +0100
+
+    Update docker_prom.yaml
+
+[33mcommit 4f6f7c27e2512d91c56d969c9d4f958272cff668[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jan 11 15:27:12 2025 +0100
+
+    Add files via upload
+
+[33mcommit b288a60797a66c7e4d3add1d3305d02b89526e1c[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Jan 8 05:03:50 2025 +0100
+
+    Update Jenkinsfile
+
+[33mcommit dc4d025f1a908aa726b08c6849e1f08c57f67c33[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Jan 8 04:58:15 2025 +0100
+
+    Update Jenkinsfile
+
+[33mcommit a549f44e1c123d78b88b66ccddb2dec6f052c4c6[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Jan 8 04:25:57 2025 +0100
+
+    Update Jenkinsfile
+
+[33mcommit 75d6dcb68f03ddec572e062aa9eabc64072b05cb[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Jan 8 04:23:28 2025 +0100
+
+    Update Jenkinsfile
+
+[33mcommit fd28da4dc4bdd78d5ac4083725d1c3d74584c3df[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Jan 8 04:19:20 2025 +0100
+
+    Update Jenkinsfile
+
+[33mcommit f858c35c029801696ee3f42d0bc5cb89b9c72d75[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jan 4 15:40:17 2025 +0100
+
+    Update pom.xml
+
+[33mcommit 7b8e411d834de45c9914664ad93c8bf7039192d9[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jan 4 15:35:14 2025 +0100
+
+    Update pom.xml
+
+[33mcommit 9ed04271f53312b90c9339c2da5ae5d54ecde6d4[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jan 4 15:24:39 2025 +0100
+
+    Update pom.xml
+
+[33mcommit bfb26ba02eb3cb6ca06b32c61a10b5d7754c205b[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jan 4 15:04:46 2025 +0100
+
+    Update pom.xml
+
+[33mcommit 5d89afbde7284dde56353449741d3485d79c1813[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Dec 21 01:36:53 2024 +0100
+
+    Update pom.xml
+
+[33mcommit 0d9daf1781b1b0dd35871230d9aeccaa09382a45[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Dec 18 06:39:48 2024 +0100
+
+    Update docker-compose.yml
+
+[33mcommit f442b0fff0502c08394eb3b18f709f0407ef39e1[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Dec 18 05:37:39 2024 +0100
+
+    Update settings.xml
+
+[33mcommit 18843eefafdcac34b0868ff0ffb170d455028a25[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Dec 18 05:36:26 2024 +0100
+
+    Update pom.xml
+
+[33mcommit cfbf2e6d7fa6937124de420e1073c2aa18874c57[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Dec 18 04:22:21 2024 +0100
+
+    Update home.jsp
+
+[33mcommit dfa461d1cded1e254ef4a04319701d19202cdcc8[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Dec 18 04:18:06 2024 +0100
+
+    update github workflow file
+
+[33mcommit 0c2e77e2b88e4453458fa390575276e5fc20249a[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Dec 18 04:10:07 2024 +0100
+
+    Delete .github/workflows directory
+
+[33mcommit 284275d64fa37a10eb45d8618ee54ddef81ecd84[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sun Dec 15 19:40:58 2024 +0100
+
+    Update home.jsp
+
+[33mcommit 2140e4cb3caf3027fa1ad4a13e8074018b83a35f[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sun Dec 15 19:06:30 2024 +0100
+
+    Update pom.xml
+
+[33mcommit 7ea03cbe97604e52194752ea0b6e2c1c3d362823[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sun Dec 15 19:04:14 2024 +0100
+
+    Create main.yml
+
+[33mcommit 1c5fa22eafd192dd8e00380bd9a0c9d31a45afa8[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Tue Dec 10 19:39:31 2024 +0100
+
+    Update Dockerfile
+
+[33mcommit da5d7e93a24fbec9ead6757941ea941b63099556[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Nov 30 16:34:23 2024 +0100
+
+    Delete target directory
+
+[33mcommit 295bcd772541c2bbab38bca7f90536666e0457b2[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Thu Aug 8 00:10:06 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 362191a2c9622a912af98d61086ef5d7b63794c9[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Thu Aug 8 00:00:38 2024 -0400
+
+    Update pom.xml
+
+[33mcommit aa422fe0dc111e47c8a6717913d05801b3fc8946[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Aug 7 23:59:28 2024 -0400
+
+    Update pom.xml
+
+[33mcommit 6884a9da018fe704b9bae46bec4e7345ecb28847[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Aug 7 23:15:52 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 4cc63ef51dc69a2cac1ddba6c1f97852e8fab64c[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Aug 7 23:14:55 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit d8e136b4e2879787b4b2fe7a81636f3054f926a5[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Aug 7 23:12:52 2024 -0400
+
+    Update pom.xml
+
+[33mcommit b0830c5aeeab2a7ba4f123026ed4a610af52d2ac[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Aug 7 23:08:04 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 2d6bc8fa5644c388aa684312df4826f4afe8dcdc[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Aug 7 22:36:50 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 172a64e0cd0d7d5478587f8c262839d0f54eb59b[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Aug 7 22:17:22 2024 -0400
+
+    Update settings.xml
+
+[33mcommit 75a83a65c2f9848776b8d0b74719752a33e20c5a[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Aug 7 22:15:33 2024 -0400
+
+    Update nexus pom.xml
+
+[33mcommit 0cfc289d2d4b50d93bd4fff11f81d12c8b05e5d7[m
+Merge: a405c7d 24b00d7
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Aug 3 14:49:19 2024 -0400
+
+    Merge pull request #1 from ifediniru/test
+    
+    Update README.md
+
+[33mcommit a405c7d7be19e1d0bb6262449bca6a259281b8f6[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jul 13 14:14:04 2024 -0400
+
+    Update home.jsp
+
+[33mcommit e22b840b0b7c64d5b8dcfae34e202dc8f8a985d6[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jul 13 13:57:35 2024 -0400
+
+    Update pom.xml
+
+[33mcommit 2bc0f45fe308d5dcb737001c58ebf480fdae95dc[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jul 13 12:47:55 2024 -0400
+
+    Update pom.xml for release changes
+
+[33mcommit c4a7016535fd13c414cbaac067ebd3ddea0d91b9[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Wed Jul 10 21:05:28 2024 -0400
+
+    Update pom.xml
+
+[33mcommit acd1cc4d2915f156731808b8e160109576daafc5[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jul 6 14:09:23 2024 -0400
+
+    Update pom.xml
+
+[33mcommit 1a46ff2579fddbb65e340081ddd9224fd42702da[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jul 6 13:36:05 2024 -0400
+
+    Update pom.xml
+
+[33mcommit cb3f1ee57ba9fc8a6cd9a76130af889cd5bdba8c[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jul 6 12:57:23 2024 -0400
+
+    Update pom.xml
+
+[33mcommit e8f702d993eee6b9657a72fb6b6e911468767109[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jul 6 12:50:47 2024 -0400
+
+    Update settings.xml
+
+[33mcommit 4ca3da6e16a27a5116aba02cb38ab03c08ddb4e1[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jun 29 14:39:07 2024 -0400
+
+    Update pom.xml
+
+[33mcommit 24b00d7baef027a367f71646430a324df42fe595[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jun 29 13:18:00 2024 -0400
+
+    Update README.md
+
+[33mcommit fcfc9f4889018b888e34c39ee6f5254b81fe3ac7[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Sat Jun 29 02:59:43 2024 -0400
+
+    Update pom.xml
+
+[33mcommit 25dd7baab0e4c7b752b3cdbcad6197348cc32541[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Tue Jun 18 23:02:16 2024 -0400
+
+    Update home.jsp
+
+[33mcommit eedb98d6a4e4ff2a54ba944df213aab28e104bdc[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Tue Jun 18 21:50:41 2024 -0400
+
+    Update README.md
+
+[33mcommit e5345a5ecd8f0de8450d855d762e91492df6d5de[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Tue Jun 18 21:46:21 2024 -0400
+
+    Update README.md
+
+[33mcommit 97a4f42532f180961a9e0f5c133ae66aa8b270aa[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Tue Jun 18 13:36:46 2024 -0400
+
+    Update cohort9
+
+[33mcommit e130ce1b6f6bf3fb0fadf58db3e2df5c91761b70[m
+Author: kelechi ifediniru <kifediniru@nibss-plc.com.ng>
+Date:   Tue Jun 18 12:45:30 2024 -0400
+
+    update makefile
+
+[33mcommit 4175026ce60db22840f157271bd809f75e77179a[m
+Author: kelechi ifediniru <kifediniru@nibss-plc.com.ng>
+Date:   Tue Jun 18 12:26:09 2024 -0400
+
+    added a makefile
+
+[33mcommit 013794cdadd8ecaa684b9ded545bd8383e8b89bc[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Mon Jun 17 17:07:29 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 95f1346d1c7ec6c9083f8ef30d3792a6904063f0[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Mon Jun 17 15:47:09 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 3def132171d86d3d5e37171bd44871a26e0d604c[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Mon Jun 17 14:40:44 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit bc444f9e65cd0af31fd742d700204fc0712d45e1[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Mon Jun 17 14:34:56 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit f2c7dbeee468306647476124f4b7a8d5737d6543[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Mon Jun 17 14:33:27 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 10718755296a60285c909526c0605226003e44cf[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Mon Jun 17 14:30:48 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 6b18062354145d1ddc78315b94e866a2b77de0d2[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Mon Jun 17 14:30:22 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit 3e410553c504cef64d8009f61285e1644515caab[m
+Author: ifediniru <54271531+ifediniru@users.noreply.github.com>
+Date:   Mon Jun 17 14:28:03 2024 -0400
+
+    Update Jenkinsfile
+
+[33mcommit defbbdacad74f2397d30f82cf73bcd6ce661e408[m
+Author: kelechi ifediniru <kifediniru@nibss-plc.com.ng>
+Date:   Mon Jun 17 14:19:02 2024 -0400
+
+    first commit
