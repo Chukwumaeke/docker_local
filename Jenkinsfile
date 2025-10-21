@@ -1,8 +1,6 @@
 pipeline {
     agent any
-   pipeline {
-      agent any
-      stages {
+    stages {
         stage('Git checkout') {
             steps {
                 sh 'echo "Checkout git based project"'
@@ -11,3 +9,4 @@ pipeline {
         }
 
     }
+}
